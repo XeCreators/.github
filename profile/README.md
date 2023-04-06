@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.xecreators.pk/">
-    <img src="https://www.xecreators.pk/wp-content/uploads/2021/05/logo.png" alt="XeCreators Logo">
+    <img src="https://demos.xecreators.pk/wp/assets/img/email-logo.png" alt="XeCreators Logo">
   </a>
 </p>
 
